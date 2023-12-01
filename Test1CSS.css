@@ -1,0 +1,18 @@
+button#button2{
+        border-radius: 100rem;
+
+        font-family: 'Avenir Next';
+        font-size: 1rem;
+        padding: .5rem 3rem;
+        
+        border: solid 3px transparent;
+        background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient(101deg, #78e4ff, #ff48fa);
+        background-origin: border-box;
+
+        box-shadow: 2px 1000px 1px #fff inset;
+      }
+      
+      button#button2:hover {
+        box-shadow: none;
+        color: white;
+  }
